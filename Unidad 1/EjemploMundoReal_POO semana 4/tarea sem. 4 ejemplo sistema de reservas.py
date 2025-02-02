@@ -1,3 +1,4 @@
+# Ejemplos del Mundo Real y Características de la Programación Orientada a Objetos
 # Clase para representar una Habitación
 class Habitacion:
     def __init__(self, numero, tipo, precio):
